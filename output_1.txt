@@ -1,0 +1,660 @@
+"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" "-javaagent:C:\Users\James\IntelliJ IDEA Community Edition 2019.3.1\lib\idea_rt.jar=65070:C:\Users\James\IntelliJ IDEA Community Edition 2019.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\James\OneDrive\Desktop\CSC 364 new\Assignment1\out\production\Assignment1" Driver
+Hit ENTER to start rush hour simulation
+
+Waiter is SLEEPING
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+New customer is attempting to enter restaurant
+Customer 5 has entered the restaurant and is seated
+Customer 11 has entered the restaurant and is seated
+Customer 4 has entered the restaurant and is seated
+Customer 11 is waiting for the waiter
+Waiter is now AWAKE
+Customer 5 is waiting for the waiter
+Customer 1 has entered the restaurant and is seated
+Customer 1 is waiting for the waiter
+Customer 15 has entered the restaurant and is seated
+Customer 15 is waiting for the waiter
+Customer 13 has entered the restaurant and is seated
+Customer 13 is waiting for the waiter
+Customer 2 has entered the restaurant and is seated
+Customer 2 is waiting for the waiter
+Customer 9 has entered the restaurant and is seated
+Customer 9 is waiting for the waiter
+Customer 14 has entered the restaurant and is seated
+Customer 14 is waiting for the waiter
+Waiter is servicing customer 1
+Customer 4 is waiting for the waiter
+Customer 6 has entered the restaurant and is seated
+Customer 6 is waiting for the waiter
+Customer 3 has entered the restaurant and is seated
+Customer 3 is waiting for the waiter
+Customer 12 has entered the restaurant and is seated
+Customer 12 is waiting for the waiter
+Customer 7 has entered the restaurant and is seated
+Customer 7 is waiting for the waiter
+Customer 8 has entered the restaurant and is seated
+Customer 8 is waiting for the waiter
+Customer 10 has entered the restaurant and is seated
+Customer 10 is waiting for the waiter
+Waiter is servicing customer 2
+Customer 11 has been served
+Customer 11 is leaving
+Customer 16 has entered the restaurant and is seated
+Customer 16 is waiting for the waiter
+Customer 5 has been served
+Waiter is servicing customer 3
+Customer 5 is leaving
+Customer 17 has entered the restaurant and is seated
+Customer 17 is waiting for the waiter
+Waiter is servicing customer 4
+Customer 1 has been served
+Customer 1 is leaving
+Customer 18 has entered the restaurant and is seated
+Customer 18 is waiting for the waiter
+Waiter is servicing customer 5
+Customer 15 has been served
+Customer 15 is leaving
+Customer 19 has entered the restaurant and is seated
+Customer 19 is waiting for the waiter
+Waiter is servicing customer 6
+Customer 13 has been served
+Customer 13 is leaving
+Customer 20 has entered the restaurant and is seated
+Customer 20 is waiting for the waiter
+Waiter is servicing customer 7
+Customer 2 has been served
+Customer 2 is leaving
+Customer 21 has entered the restaurant and is seated
+Customer 21 is waiting for the waiter
+Waiter is servicing customer 8
+Customer 9 has been served
+Customer 9 is leaving
+Customer 22 has entered the restaurant and is seated
+Customer 22 is waiting for the waiter
+Waiter is servicing customer 9
+Customer 14 has been served
+Customer 14 is leaving
+Customer 23 has entered the restaurant and is seated
+Customer 23 is waiting for the waiter
+Waiter is servicing customer 10
+Customer 4 has been served
+Customer 4 is leaving
+Customer 24 has entered the restaurant and is seated
+Customer 24 is waiting for the waiter
+Waiter is servicing customer 11
+Customer 6 has been served
+Customer 6 is leaving
+Customer 25 has entered the restaurant and is seated
+Customer 25 is waiting for the waiter
+Customer 3 has been served
+Customer 3 is leaving
+Waiter is servicing customer 12
+Customer 26 has entered the restaurant and is seated
+Customer 26 is waiting for the waiter
+Waiter is servicing customer 13
+Customer 12 has been served
+Customer 12 is leaving
+Customer 27 has entered the restaurant and is seated
+Customer 27 is waiting for the waiter
+Waiter is servicing customer 14
+Customer 7 has been served
+Customer 7 is leaving
+Customer 28 has entered the restaurant and is seated
+Customer 28 is waiting for the waiter
+Waiter is servicing customer 15
+Customer 8 has been served
+Customer 8 is leaving
+Customer 29 has entered the restaurant and is seated
+Customer 29 is waiting for the waiter
+Waiter is servicing customer 16
+Customer 10 has been served
+Customer 10 is leaving
+Customer 30 has entered the restaurant and is seated
+Customer 30 is waiting for the waiter
+Waiter is servicing customer 17
+Customer 16 has been served
+Customer 16 is leaving
+Customer 31 has entered the restaurant and is seated
+Customer 31 is waiting for the waiter
+Waiter is servicing customer 18
+Customer 17 has been served
+Customer 17 is leaving
+Customer 32 has entered the restaurant and is seated
+Customer 32 is waiting for the waiter
+Waiter is servicing customer 19
+Customer 18 has been served
+Customer 18 is leaving
+Customer 33 has entered the restaurant and is seated
+Customer 33 is waiting for the waiter
+Waiter is servicing customer 20
+Customer 19 has been served
+Customer 19 is leaving
+Customer 34 has entered the restaurant and is seated
+Customer 34 is waiting for the waiter
+Waiter is servicing customer 21
+Customer 20 has been served
+Customer 20 is leaving
+Customer 35 has entered the restaurant and is seated
+Customer 35 is waiting for the waiter
+Waiter is servicing customer 22
+Customer 21 has been served
+Customer 21 is leaving
+Customer 36 has entered the restaurant and is seated
+Customer 36 is waiting for the waiter
+Waiter is servicing customer 23
+Customer 22 has been served
+Customer 22 is leaving
+Customer 37 has entered the restaurant and is seated
+Customer 37 is waiting for the waiter
+Waiter is servicing customer 24
+Customer 23 has been served
+Customer 23 is leaving
+Customer 38 has entered the restaurant and is seated
+Customer 38 is waiting for the waiter
+Waiter is servicing customer 25
+Customer 24 has been served
+Customer 24 is leaving
+Customer 39 has entered the restaurant and is seated
+Customer 39 is waiting for the waiter
+Waiter is servicing customer 26
+Customer 25 has been served
+Customer 25 is leaving
+Customer 40 has entered the restaurant and is seated
+Customer 40 is waiting for the waiter
+Customer 26 has been served
+Customer 26 is leaving
+Waiter is servicing customer 27
+Customer 41 has entered the restaurant and is seated
+Customer 41 is waiting for the waiter
+Waiter is servicing customer 28
+Customer 27 has been served
+Customer 27 is leaving
+Customer 42 has entered the restaurant and is seated
+Customer 42 is waiting for the waiter
+Waiter is servicing customer 29
+Customer 28 has been served
+Customer 28 is leaving
+Customer 43 has entered the restaurant and is seated
+Customer 43 is waiting for the waiter
+Waiter is servicing customer 30
+Customer 29 has been served
+Customer 29 is leaving
+Customer 44 has entered the restaurant and is seated
+Customer 44 is waiting for the waiter
+Waiter is servicing customer 31
+Customer 30 has been served
+Customer 30 is leaving
+Customer 45 has entered the restaurant and is seated
+Customer 45 is waiting for the waiter
+Waiter is servicing customer 32
+Customer 31 has been served
+Customer 31 is leaving
+Customer 46 has entered the restaurant and is seated
+Customer 46 is waiting for the waiter
+Waiter is servicing customer 33
+Customer 32 has been served
+Customer 32 is leaving
+Customer 47 has entered the restaurant and is seated
+Customer 47 is waiting for the waiter
+Waiter is servicing customer 34
+Customer 33 has been served
+Customer 33 is leaving
+Customer 48 has entered the restaurant and is seated
+Customer 48 is waiting for the waiter
+Waiter is servicing customer 35
+Customer 34 has been served
+Customer 34 is leaving
+Customer 49 has entered the restaurant and is seated
+Customer 49 is waiting for the waiter
+Waiter is servicing customer 36
+Customer 35 has been served
+Customer 35 is leaving
+Customer 50 has entered the restaurant and is seated
+Customer 50 is waiting for the waiter
+Waiter is servicing customer 37
+Customer 36 has been served
+Customer 36 is leaving
+Waiter is servicing customer 38
+Customer 37 has been served
+Customer 37 is leaving
+Waiter is servicing customer 39
+Customer 38 has been served
+Customer 38 is leaving
+Waiter is servicing customer 40
+Customer 39 has been served
+Customer 39 is leaving
+Waiter is servicing customer 41
+Customer 40 has been served
+Customer 40 is leaving
+Customer 41 has been served
+Customer 41 is leaving
+Waiter is servicing customer 42
+Waiter is servicing customer 43
+Customer 42 has been served
+Customer 42 is leaving
+Waiter is servicing customer 44
+Customer 43 has been served
+Customer 43 is leaving
+Waiter is servicing customer 45
+Customer 44 has been served
+Customer 44 is leaving
+Waiter is servicing customer 46
+Customer 45 has been served
+Customer 45 is leaving
+Waiter is servicing customer 47
+Customer 46 has been served
+Customer 46 is leaving
+Waiter is servicing customer 48
+Customer 47 has been served
+Customer 47 is leaving
+Waiter is servicing customer 49
+Customer 48 has been served
+Customer 48 is leaving
+Waiter is servicing customer 50
+Customer 49 has been served
+Customer 49 is leaving
+Waiter is SLEEPING
+Customer 50 has been served
+Customer 50 is leaving
+Hit ENTER to start slow time simulation
+
+New customer is attempting to enter restaurant
+Customer 51 has entered the restaurant and is seated
+Customer 51 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 51
+Waiter is SLEEPING
+Customer 51 has been served
+Customer 51 is leaving
+New customer is attempting to enter restaurant
+Customer 52 has entered the restaurant and is seated
+Waiter is now AWAKE
+Customer 52 is waiting for the waiter
+Waiter is servicing customer 52
+Waiter is SLEEPING
+Customer 52 has been served
+Customer 52 is leaving
+New customer is attempting to enter restaurant
+Customer 53 has entered the restaurant and is seated
+Customer 53 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 53
+Waiter is SLEEPING
+Customer 53 has been served
+Customer 53 is leaving
+New customer is attempting to enter restaurant
+Customer 54 has entered the restaurant and is seated
+Customer 54 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 54
+Waiter is SLEEPING
+Customer 54 has been served
+Customer 54 is leaving
+New customer is attempting to enter restaurant
+Customer 55 has entered the restaurant and is seated
+Customer 55 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 55
+Waiter is SLEEPING
+Customer 55 has been served
+Customer 55 is leaving
+New customer is attempting to enter restaurant
+Customer 56 has entered the restaurant and is seated
+Customer 56 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 56
+Waiter is SLEEPING
+Customer 56 has been served
+Customer 56 is leaving
+New customer is attempting to enter restaurant
+Customer 57 has entered the restaurant and is seated
+Customer 57 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 57
+New customer is attempting to enter restaurant
+Customer 58 has entered the restaurant and is seated
+Customer 58 is waiting for the waiter
+Waiter is servicing customer 58
+Customer 57 has been served
+Customer 57 is leaving
+New customer is attempting to enter restaurant
+Customer 59 has entered the restaurant and is seated
+Customer 59 is waiting for the waiter
+Waiter is servicing customer 59
+Customer 58 has been served
+Customer 58 is leaving
+New customer is attempting to enter restaurant
+Customer 60 has entered the restaurant and is seated
+Customer 60 is waiting for the waiter
+Waiter is servicing customer 60
+Customer 59 has been served
+Customer 59 is leaving
+New customer is attempting to enter restaurant
+Customer 61 has entered the restaurant and is seated
+Customer 61 is waiting for the waiter
+Waiter is servicing customer 61
+Customer 60 has been served
+Customer 60 is leaving
+Waiter is SLEEPING
+Customer 61 has been served
+Customer 61 is leaving
+New customer is attempting to enter restaurant
+Customer 62 has entered the restaurant and is seated
+Waiter is now AWAKE
+Waiter is servicing customer 62
+Customer 62 is waiting for the waiter
+Waiter is SLEEPING
+Customer 62 has been served
+Customer 62 is leaving
+New customer is attempting to enter restaurant
+Customer 63 has entered the restaurant and is seated
+Customer 63 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 63
+Waiter is SLEEPING
+Customer 63 has been served
+Customer 63 is leaving
+New customer is attempting to enter restaurant
+Customer 64 has entered the restaurant and is seated
+Customer 64 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 64
+Waiter is SLEEPING
+Customer 64 has been served
+Customer 64 is leaving
+New customer is attempting to enter restaurant
+Customer 65 has entered the restaurant and is seated
+Customer 65 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 65
+Waiter is SLEEPING
+Customer 65 has been served
+Customer 65 is leaving
+New customer is attempting to enter restaurant
+Customer 66 has entered the restaurant and is seated
+Customer 66 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 66
+Waiter is SLEEPING
+Customer 66 has been served
+Customer 66 is leaving
+New customer is attempting to enter restaurant
+Customer 67 has entered the restaurant and is seated
+Customer 67 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 67
+Waiter is SLEEPING
+Customer 67 has been served
+Customer 67 is leaving
+New customer is attempting to enter restaurant
+Customer 68 has entered the restaurant and is seated
+Customer 68 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 68
+New customer is attempting to enter restaurant
+Customer 69 has entered the restaurant and is seated
+Customer 69 is waiting for the waiter
+Waiter is servicing customer 69
+Customer 68 has been served
+Customer 68 is leaving
+Waiter is SLEEPING
+Customer 69 has been served
+Customer 69 is leaving
+New customer is attempting to enter restaurant
+Customer 70 has entered the restaurant and is seated
+Waiter is now AWAKE
+Waiter is servicing customer 70
+Customer 70 is waiting for the waiter
+New customer is attempting to enter restaurant
+Customer 71 has entered the restaurant and is seated
+Customer 71 is waiting for the waiter
+New customer is attempting to enter restaurant
+Customer 72 has entered the restaurant and is seated
+Customer 72 is waiting for the waiter
+New customer is attempting to enter restaurant
+Customer 73 has entered the restaurant and is seated
+Customer 73 is waiting for the waiter
+Waiter is servicing customer 71
+Customer 70 has been served
+Customer 70 is leaving
+New customer is attempting to enter restaurant
+Customer 74 has entered the restaurant and is seated
+Customer 74 is waiting for the waiter
+Waiter is servicing customer 72
+Customer 71 has been served
+Customer 71 is leaving
+Waiter is servicing customer 73
+Customer 72 has been served
+Customer 72 is leaving
+New customer is attempting to enter restaurant
+Customer 75 has entered the restaurant and is seated
+Customer 75 is waiting for the waiter
+Waiter is servicing customer 74
+Customer 73 has been served
+Customer 73 is leaving
+New customer is attempting to enter restaurant
+Customer 76 has entered the restaurant and is seated
+Customer 76 is waiting for the waiter
+New customer is attempting to enter restaurant
+Customer 77 has entered the restaurant and is seated
+Customer 77 is waiting for the waiter
+Waiter is servicing customer 75
+Customer 74 has been served
+Customer 74 is leaving
+Waiter is servicing customer 76
+Customer 75 has been served
+Customer 75 is leaving
+Waiter is servicing customer 77
+Customer 76 has been served
+Customer 76 is leaving
+New customer is attempting to enter restaurant
+Customer 78 has entered the restaurant and is seated
+Customer 78 is waiting for the waiter
+Customer 77 has been served
+Waiter is servicing customer 78
+Customer 77 is leaving
+New customer is attempting to enter restaurant
+Customer 79 has entered the restaurant and is seated
+Customer 79 is waiting for the waiter
+Waiter is servicing customer 79
+Customer 78 has been served
+Customer 78 is leaving
+New customer is attempting to enter restaurant
+Customer 80 has entered the restaurant and is seated
+Customer 80 is waiting for the waiter
+Customer 79 has been served
+Customer 79 is leaving
+Waiter is servicing customer 80
+Waiter is SLEEPING
+Customer 80 has been served
+Customer 80 is leaving
+New customer is attempting to enter restaurant
+Customer 81 has entered the restaurant and is seated
+Customer 81 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 81
+New customer is attempting to enter restaurant
+Customer 82 has entered the restaurant and is seated
+Customer 82 is waiting for the waiter
+Waiter is servicing customer 82
+Customer 81 has been served
+Customer 81 is leaving
+New customer is attempting to enter restaurant
+Customer 83 has entered the restaurant and is seated
+Customer 83 is waiting for the waiter
+Waiter is servicing customer 83
+Customer 82 has been served
+Customer 82 is leaving
+New customer is attempting to enter restaurant
+Customer 84 has entered the restaurant and is seated
+Customer 84 is waiting for the waiter
+Waiter is servicing customer 84
+Customer 83 has been served
+Customer 83 is leaving
+Waiter is SLEEPING
+Customer 84 has been served
+Customer 84 is leaving
+New customer is attempting to enter restaurant
+Customer 85 has entered the restaurant and is seated
+Waiter is now AWAKE
+Waiter is servicing customer 85
+Customer 85 is waiting for the waiter
+New customer is attempting to enter restaurant
+Customer 86 has entered the restaurant and is seated
+Customer 86 is waiting for the waiter
+New customer is attempting to enter restaurant
+Customer 87 has entered the restaurant and is seated
+Customer 87 is waiting for the waiter
+Waiter is servicing customer 86
+Customer 85 has been served
+Customer 85 is leaving
+New customer is attempting to enter restaurant
+Customer 88 has entered the restaurant and is seated
+Customer 88 is waiting for the waiter
+Waiter is servicing customer 87
+Customer 86 has been served
+Customer 86 is leaving
+Waiter is servicing customer 88
+Customer 87 has been served
+Customer 87 is leaving
+New customer is attempting to enter restaurant
+Customer 89 has entered the restaurant and is seated
+Customer 89 is waiting for the waiter
+Waiter is servicing customer 89
+Customer 88 has been served
+Customer 88 is leaving
+New customer is attempting to enter restaurant
+Customer 90 has entered the restaurant and is seated
+Customer 90 is waiting for the waiter
+Waiter is servicing customer 90
+Customer 89 has been served
+Customer 89 is leaving
+Waiter is SLEEPING
+Customer 90 has been served
+Customer 90 is leaving
+New customer is attempting to enter restaurant
+Customer 91 has entered the restaurant and is seated
+Customer 91 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 91
+Waiter is SLEEPING
+Customer 91 has been served
+Customer 91 is leaving
+New customer is attempting to enter restaurant
+Customer 92 has entered the restaurant and is seated
+Customer 92 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 92
+Waiter is SLEEPING
+Customer 92 has been served
+Customer 92 is leaving
+New customer is attempting to enter restaurant
+Customer 93 has entered the restaurant and is seated
+Customer 93 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 93
+Waiter is SLEEPING
+Customer 93 has been served
+Customer 93 is leaving
+New customer is attempting to enter restaurant
+Customer 94 has entered the restaurant and is seated
+Customer 94 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 94
+Waiter is SLEEPING
+Customer 94 has been served
+Customer 94 is leaving
+New customer is attempting to enter restaurant
+Customer 95 has entered the restaurant and is seated
+Customer 95 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 95
+New customer is attempting to enter restaurant
+Customer 96 has entered the restaurant and is seated
+Customer 96 is waiting for the waiter
+Waiter is servicing customer 96
+Customer 95 has been served
+Customer 95 is leaving
+New customer is attempting to enter restaurant
+Customer 97 has entered the restaurant and is seated
+Customer 97 is waiting for the waiter
+Waiter is servicing customer 97
+Customer 96 has been served
+Customer 96 is leaving
+Waiter is SLEEPING
+Customer 97 has been served
+Customer 97 is leaving
+New customer is attempting to enter restaurant
+Customer 98 has entered the restaurant and is seated
+Customer 98 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 98
+Waiter is SLEEPING
+Customer 98 has been served
+Customer 98 is leaving
+New customer is attempting to enter restaurant
+Customer 99 has entered the restaurant and is seated
+Customer 99 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 99
+Waiter is SLEEPING
+Customer 99 has been served
+Customer 99 is leaving
+New customer is attempting to enter restaurant
+Customer 100 has entered the restaurant and is seated
+Customer 100 is waiting for the waiter
+Waiter is now AWAKE
+Waiter is servicing customer 100
+Waiter is SLEEPING
+Customer 100 has been served
+Customer 100 is leaving
+
+Process finished with exit code 0
